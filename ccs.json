@@ -2,7 +2,7 @@
     "room":                     "Radiant Music",
     "author":                   "Origin",
     "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "ccs/ccsStyle.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
